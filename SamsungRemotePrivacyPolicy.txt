@@ -1,0 +1,18 @@
+Privacy Policy for Samsung Remote Mobile Application
+
+This Privacy Policy explains how your personal information is collected, used, and disclosed by the "Samsung Remote" mobile application ("App"). The App does not collect or store any personal information about you. By using the App, you consent to the collection and use of your information in accordance with this Privacy Policy.
+
+Information We Collect
+The App does not collect any personal information from you. The App does not require you to create an account, and it does not collect any data to send back to any servers.
+
+How We Use Your Information
+The App does not use any personal information about you. The App is designed to allow you to connect to and control a Samsung TV via a websocket the TV has open. The App does not collect any information about your TV or your usage of the App.
+
+Sharing of Your Information
+The App does not share any personal information about you. The App does not store any data or send any data back to any servers.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we will notify you by email (if you have provided us with an email address) or by posting the updated Privacy Policy on the App.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at matthewhogan63@gmail.com.
